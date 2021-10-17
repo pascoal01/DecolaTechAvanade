@@ -1,0 +1,14 @@
+C:\Users\Acer\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\Acer\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\Acer\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\Acer\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\Acer\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\Acer\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\Acer\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\Acer\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Acer\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\Acer\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Acer\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\Acer\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\Acer\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
