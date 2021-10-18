@@ -140,7 +140,7 @@ namespace DIO.Series
         private static string ObterOpcaoUsuario()
         {
             Console.WriteLine();
-            Console.WriteLine("DIO Séries a seu dispor!");
+            Console.WriteLine("DIO Séries a seu dispor my friend!");
             Console.WriteLine("Informe a opção desejada: ");
             Console.WriteLine("1- Listar séries");
             Console.WriteLine("2- Inserir nova série");
