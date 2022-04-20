@@ -22,11 +22,10 @@ namespace DIO.Series
         {
             this.Id = id; //id não está em Série, mas está em EntidadeBase
             this.Genero = genero;
-            this.Titulo = titulo;
+            this.Título = titulo;
             this.Descrição = descricao;
             this.Ano = ano;
-            this.Excluido = false; //isso faz com que a informação não desapareça, pois se caso for realmente excluído vai mudar todo o vetor
-        }
+            this.Excluido = false; 
 
         public override string ToString()
         {
